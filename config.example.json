@@ -1,0 +1,20 @@
+{
+  "_说明": "复制为 config.json 后使用；cookie 用界面「自动抓 Cookie」或 python capture.py 写入。",
+  "cookie_string": "",
+  "cookies": {
+    "csrftoken": "",
+    "sessionid": "",
+    "university_id": ""
+  },
+  "uv_id": "",
+  "host": "https://changjiang.yuketang.cn",
+  "step": 20,
+  "batch": 50,
+  "realtime": false,
+  "gap": "0.2,0.6",
+  "with_slide": false,
+  "workers": 5,
+  "cache_ttl": 900,
+  "limit": 0,
+  "deep_scan": true
+}
