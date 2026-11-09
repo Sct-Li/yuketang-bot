@@ -1,0 +1,25 @@
+# ---- 运行产物（含登录态 / 学习数据，切勿提交）----
+config.json
+cookie.txt
+profile.json
+scan_cache.json
+state.json
+.ykt-cdp-port
+dump/
+dist/
+build/
+*.zip
+*.spec
+*.log
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# ---- 编辑器 / 系统 ----
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
